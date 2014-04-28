@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" >
-<title>{$smarty.const.SITE_NAME} - Powered by AgileBill</title>
+<title>{$smarty.const.SITE_NAME}</title>
 <head>
 
 <SCRIPT LANGUAGE="JavaScript">
@@ -33,7 +33,7 @@
 <div id="content">
 <table width="750" border="0" align="center">
   <tr>
-    <td width="100%" align="center"><a href="http://www.agilebill.com/" style="background: none;"><img src='themes/{$THEME_NAME}/images/logo.gif' border='0' /></a></td>
+    <td width="100%" align="center"><a href="https://billing.zeno.io/" style="background: none;"><img src='themes/{$THEME_NAME}/images/logo.gif' border='0' /></a></td>
   </tr>
   <tr>
     <td>
@@ -85,8 +85,8 @@
   </tr>
   <tr>
     <td><div id="copywrite">		
-		<a href="http://www.agileco.com">Billing Software</a> Powered by AgileBill.
-		Copyright 2004-2009 <a href="http://www.agileco.com/">Agileco, LLC</a>
+		<a href="http://zeno.io/">Billing</a> Powered by AgileBill.
+		Copyright 2004-2014 <a href="http://www.agileco.com/">Agileco, LLC</a> <a href="http://www.zeno.io/">Zeno Holdings PTY LTD</a>
 	</div></td>
   </tr>
 </table>
