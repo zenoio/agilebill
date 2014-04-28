@@ -33,7 +33,7 @@
 <div id="content">
 <table width="750" border="0" align="center">
   <tr>
-    <td width="100%" align="center"><a href="https://billing.zeno.io/" style="background: none;"><img src='themes/{$THEME_NAME}/images/logo.gif' border='0' /></a></td>
+    <td width="100%" align="center"><a href="https://billing.zeno.io/" style="background: none;"><img src='themes/{$THEME_NAME}/images/logo.png' border='0' /></a></td>
   </tr>
   <tr>
     <td>
@@ -85,8 +85,8 @@
   </tr>
   <tr>
     <td><div id="copywrite">		
-		<a href="http://zeno.io/">Billing</a> Powered by AgileBill.
-		Copyright 2004-2014 <a href="http://www.agileco.com/">Agileco, LLC</a> <a href="http://www.zeno.io/">Zeno Holdings PTY LTD</a>
+		<a href="http://zeno.io/">Zeno Billing</a> Powered by AgileBill.
+		Copyright 2014 <a href="http://www.zeno.io/">Zeno Holdings PTY LTD</a>
 	</div></td>
   </tr>
 </table>
